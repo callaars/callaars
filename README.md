@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @callaars
-- 👀 I’m interested in baking, motorbikes and video games.
-- 🌱 I’m currently learning to be a better baker.
-- 💞️ I’m looking to collaborate on absolutely nothing.
-- 📫 How to reach me; either you know, or you don't.
+- 👋 Hi, I’m @callaars!
+- 👀 I’m interested in fermentation, motorbikes, astronomy and video games.
+- 🌱 I’m currently learning to be better in pattiserie.
+- 💞️ I’m looking to collaborate on pattiserie, baking, fermenting.
+- 📫 How to reach me; send me a message through the usual channels.
 
 <!---
 callaars/callaars is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
