@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @callaars!
 - 👀 I’m interested in fermentation, motorbikes, astronomy and video games.
-- 🌱 I’m currently learning to be better in pattiserie.
+- 🌱 I’m currently learning to be better in cooking.
 - 💞️ I’m looking to collaborate on pattiserie, baking, fermenting.
 - 📫 How to reach me; send me a message through the usual channels.
 
